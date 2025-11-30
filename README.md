@@ -2,7 +2,7 @@
 🔭 I’m currently working on
 Building and modernizing Azure Landing Zones, multi-tenant governance, secure network architectures, Bicep/Terraform IaC, and end-to-end Azure DevOps YAML pipelines for large enterprises.
 
-👯 I’m looking to collaborate on
+💪🏾 I’m looking to collaborate on
 Cloud platform engineering, automation frameworks, ALZ module development, AVD implementations, and Event Hub → SIEM integrations.
 
 🤝 I’m looking for help with
@@ -14,7 +14,7 @@ Deep-diving into Kubernetes (AKS architecture, networking, workloads, operators,
 💬 Ask me about
 Azure Architecture, ALZ, Terraform/Bicep, Azure DevOps CI/CD, AVD, Event Hub logging pipelines, private networking, identity & access (Entra ID), and cloud governance at scale.
 
-⚡ Fun fact
+⚡️ Fun fact
 I enjoy solving complex cloud problems and turning them into simple, repeatable automation.
 
 
