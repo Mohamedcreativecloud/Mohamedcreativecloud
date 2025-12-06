@@ -1,22 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on
-Building and modernizing Azure Landing Zones, multi-tenant governance, secure network architectures, Bicep/Terraform IaC, and end-to-end Azure DevOps YAML pipelines for large enterprises.
-
-💪🏾 I’m looking to collaborate on
-Cloud platform engineering, automation frameworks, ALZ module development, AVD implementations, and Event Hub → SIEM integrations.
-
-🤝 I’m looking for help with
-Scaling internal developer platforms (IDP), optimizing Kubernetes adoption strategies, and best practices for enterprise-wide governance automation.
+👨🏾‍💻 I’m currently working on
+Building and modernizing Azure Landing Zones, multi-tenant governance, Zero trust network architectures, Bicep/Terraform IaC, and end-to-end Azure DevOps pipelines for large enterprises.
 
 🌱 I’m currently learning
-Deep-diving into Kubernetes (AKS architecture, networking, workloads, operators, GitOps) and mastering advanced Terraform patterns for large-scale environments.
+Deep-diving into Kubernetes (AKS architecture, networking, workloads, operators, GitOps) and mastering Terraform for large-scale environments.
 
 💬 Ask me about
-Azure Architecture, ALZ, Terraform/Bicep, Azure DevOps CI/CD, AVD, Event Hub logging pipelines, private networking, identity & access (Entra ID), and cloud governance at scale.
-
-⚡️ Fun fact
-I enjoy solving complex cloud problems and turning them into simple, repeatable automation.
-
+Azure Architecture, Terraform/Bicep, DevOps CI/CD, Private networking, identity & access, and cloud governance at scale.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-a-34198913b/) 
